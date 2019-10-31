@@ -13,9 +13,11 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://GloveLover.github.io
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:name/
+permalink: post/:abbrlink.html
+
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing index.html from permalinks
@@ -96,8 +98,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/GloveLover/Longglovelover.git
-  branch: gh-pages
+  repo: https://GloveLover@github.com/GloveLover/Longglovelover.git
+  branch: master
 
 # Search
 search:
@@ -106,3 +108,12 @@ search:
   content: true
   format: html
   limit: 10000
+
+# Config hexo-admin authentification
+admin:
+  username: GloveLover
+  password_hash: $2a$10$VpMZqJKQYaVD7Cy1i4G0feeooz4sZflrqyMyf4F2BEUjaRIomX8r2
+  secret: This is the blog for glove fetish
+  deployCommand: .\deploy.bat
+# Compress data
+all_minifier: true
