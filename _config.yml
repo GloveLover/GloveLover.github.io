@@ -111,9 +111,6 @@ search:
 
 # Config hexo-admin authentification
 admin:
-  username: GloveLover
-  password_hash: $2a$10$VpMZqJKQYaVD7Cy1i4G0feeooz4sZflrqyMyf4F2BEUjaRIomX8r2
-  secret: This is the blog for glove fetish
   deployCommand: .\deploy.bat
 # Compress data
 all_minifier: true
