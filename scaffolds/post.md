@@ -1,5 +1,20 @@
 ---
 title: {{ title }}
-date: {{ date }}
+author: F-ReshN
 tags:
+categories:
+date: {{ date }}
 ---
+
+<!-- more -->
+
+**推荐度：5/10**
+
+[下载链接]()
+
+`
+提取码：
+解压密码：longglovelover.com
+`
+
+请下载到本地观看，不要在线解压，以免被和谐!
