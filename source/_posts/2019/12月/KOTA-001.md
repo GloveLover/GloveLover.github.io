@@ -24,10 +24,12 @@ AV制作商MERCURY公司的作品，主题是龟头责。
 
 **推荐度：7/10**
 
-[下载链接](https://pan.baidu.com/s/1ZL5PEiUH9z_9nxNjORHjzw)
+2019/12/12 链接修复
+
+[下载链接 <点击>](https://pan.baidu.com/s/1fZi2ra1D5aUq43HkdOPIVg)
 
 `
-提取码：dw2s
+提取码：8zsq
 解压密码：longglovelover.com
 `
 
