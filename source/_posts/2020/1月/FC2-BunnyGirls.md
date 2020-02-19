@@ -3,8 +3,9 @@ title: FC2 个人作品 可爱的兔女郎
 author: F-ReshN
 tags:
   - 兔女郎
-  - 长手套
+  - 氨纶
   - Cosplay
+  - 多人
 categories:
   - 福利
 abbrlink: 54919
@@ -21,7 +22,7 @@ date: 2020-01-31 21:26:50
 
 经典的URGF系列最早也是这样的线上小作坊，导演一开始的工作室叫glovefetish.tv，最后成功拍成了正式的AV。
 
-**推荐度：6.5/10**
+**推荐度：8/10**
 
 [下载链接 <点击>](https://pan.baidu.com/s/1WpofiU2H5Hsiut7aGL7Hpw)
 
