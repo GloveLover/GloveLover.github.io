@@ -4,7 +4,7 @@ author: F-ReshN
 abbrlink: 41632
 tags:
   - 魅魔
-  - 丝袜手套
+  - 丝质
   - Cosplay
 categories:
   - 福利

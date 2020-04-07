@@ -4,6 +4,7 @@ abbrlink: 7604
 tags:
   - Cosplay
   - 莱卡
+  - 光面
   - 吸血鬼
   - M男
 categories:
