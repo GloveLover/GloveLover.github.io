@@ -14,4 +14,6 @@ type: about
 
 如果群不幸被和谐，我会在这里更新群号
 
+<img src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/GLV%E7%BE%A4%E5%8F%B7.jpg"/>
+
 {% endcq %} 
