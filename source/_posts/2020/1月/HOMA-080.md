@@ -50,4 +50,4 @@ date: 2020-01-26 16:17:22
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/HOMA-080.mp4_015559.666.jpg"/>
 
-<img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/HOMA-080 thumbs.jpg"/>
+<img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_NylonGlove_HOMA080.thumbs.jpg"/>
