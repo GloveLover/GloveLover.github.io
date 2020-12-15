@@ -2,7 +2,7 @@
 title: MACB-019 S属性觉醒的娇妻 南梨央奈
 author: F-ReshN
 tags:
-  - 光面
+  - 亮面
   - 女王
   - M男
 abbrlink: 48760
