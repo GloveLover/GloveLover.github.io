@@ -25,10 +25,12 @@ date: 2020-01-26 16:17:22
 
 **推荐度：7.5/10**
 
-[下载链接 <点击>](https://pan.baidu.com/s/12DyUPkGXZ2DWJA9pHPH6dA)
+2021.07.06 更新
+
+[下载链接 <点击>](https://pan.baidu.com/s/1X-juKm8lvrDwJuGF-PTfCQ)
 
 `
-提取码：dx42
+提取码：qsw5 
 解压密码：longglovelover.com
 `
 

@@ -3,6 +3,7 @@ title: {{ title }}
 author: F-ReshN
 tags:
 categories:
+  - 福利
 date: {{ date }}
 ---
 
