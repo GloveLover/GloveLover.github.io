@@ -76,7 +76,7 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
+updated_option: false
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -89,11 +89,6 @@ include:
 exclude:
 ignore:
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: next
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
@@ -101,16 +96,75 @@ deploy:
   repo: https://GloveLover@github.com/GloveLover/Longglovelover.git
   branch: master
 
-# Search
-search:
-  path: search.xml
-  field: post
-  content: true
-  format: html
-  limit: 10000
-
 # Config hexo-admin authentification
 admin:
   deployCommand: .\deploy.bat
 # Compress data
 all_minifier: true
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: next
+
+# 下面是Next主题专用的配置，用于覆盖next自己的_config.yml，方便升级
+
+# Region start
+
+# Define custom file paths.
+# Create your custom files in site directory `source/_data` and uncomment needed files below.
+custom_file_path:
+  #head: source/_data/head.swig
+  #header: source/_data/header.swig
+  #sidebar: source/_data/sidebar.swig
+  #postMeta: source/_data/post-meta.swig
+  #postBodyEnd: source/_data/post-body-end.swig
+  #footer: source/_data/footer.swig
+  #bodyEnd: source/_data/body-end.swig
+  #variable: source/_data/variables.styl
+  #mixin: source/_data/mixins.styl
+  style: source/_data/styles.styl
+
+footer:
+  # Powered by Hexo & NexT
+  powered: false
+
+# Schemes
+scheme: Gemini
+
+# Dark Mode
+darkmode: false
+
+# Sidebar Avatar
+avatar:
+  # Replace the default image and set the url here.
+  url: https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/dita-glove5.jpg
+  # If true, the avatar would be dispalyed in circle.
+  rounded: true
+  # If true, the avatar would be rotated with the cursor.
+  rotated: false
+
+# FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
+# For more information: https://fancyapps.com/fancybox
+fancybox: true
+
+# Vanilla JavaScript plugin for lazyloading images.
+# For more information: https://github.com/ApoorvSaxena/lozad.js
+lazyload: true
+
+# Show number of visitors of each article.
+# You can visit https://leancloud.cn to get AppID and AppKey.
+# AppID and AppKey are recommended to be the same as valine's for counter compatibility.
+# Do not enable both `valine.visitor` and `leancloud_visitors`.
+leancloud_visitors:
+  enable: true
+  app_id: L42TjYBjoxTIM133nxUznGuU-gzGzoHsz
+  app_key: YS6nx260Yiwze7JUMUaBIEhy
+  # Required for apps from CN region
+  server_url: https://l42tjybj.lc-cn-n1-shared.com
+  # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
+  # If you don't care about security in leancloud counter and just want to use it directly
+  # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
+  security: true
+
+# Region end
