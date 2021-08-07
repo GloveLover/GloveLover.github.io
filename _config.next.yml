@@ -1,0 +1,58 @@
+# 下面是Next主题专用的配置，用于覆盖next自己的_config.yml，方便升级
+
+# Region start
+
+# Define custom file paths.
+# Create your custom files in site directory `source/_data` and uncomment needed files below.
+custom_file_path:
+  #head: source/_data/head.swig
+  #header: source/_data/header.swig
+  #sidebar: source/_data/sidebar.swig
+  #postMeta: source/_data/post-meta.swig
+  #postBodyEnd: source/_data/post-body-end.swig
+  #footer: source/_data/footer.swig
+  #bodyEnd: source/_data/body-end.swig
+  #variable: source/_data/variables.styl
+  #mixin: source/_data/mixins.styl
+  style: source/_data/styles.styl
+
+footer:
+  # Powered by Hexo & NexT
+  powered: false
+
+# Schemes
+# scheme: Muse
+scheme: Gemini
+
+# Dark Mode
+darkmode: false
+
+# Sidebar Avatar
+avatar:
+  # Replace the default image and set the url here.
+  url: https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/dita-glove5.jpg
+  # If true, the avatar would be dispalyed in circle.
+  rounded: true
+  # If true, the avatar would be rotated with the cursor.
+  rotated: false
+
+# FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
+# For more information: https://fancyapps.com/fancybox
+fancybox: true
+
+# Vanilla JavaScript plugin for lazyloading images.
+# For more information: https://github.com/ApoorvSaxena/lozad.js
+lazyload: true
+
+# Show Views / Visitors of the website / page with busuanzi.
+# Get more information on http://ibruce.info/2015/04/04/busuanzi
+busuanzi_count:
+  enable: true
+  total_visitors: true
+  total_visitors_icon: user
+  total_views: true
+  total_views_icon: eye
+  post_views: true
+  post_views_icon: eye
+
+# Region end
