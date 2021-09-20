@@ -3,7 +3,7 @@ title: FC2 个人作品 黑色缎面长手套小猫
 author: F-ReshN
 tags:
   - 缎面
-  - 私房
+  - FC2
 categories:
   - 福利
 abbrlink: 16005
