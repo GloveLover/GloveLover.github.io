@@ -3,16 +3,13 @@ title: 关于本站
 date: 2019-10-30 23:31:05
 type: about
 ---
-
-{% cq %} 
+{% cq %}
 
 本站专门用于分享我收集的长手套恋物影片，以及发布新片信息
 
 想要购买影片或者加同好群的朋友请先联系管理员
 
 QQ: 651031529
-
-没有QQ的海外用户可以邮箱联系：yikhan@qq.com
 
 Telegram：https://t.me/F_ReshN
 
@@ -22,4 +19,4 @@ Telegram：https://t.me/F_ReshN
 
 如果群不幸被和谐，请联系管理员
 
-{% endcq %} 
+{% endcq %}
