@@ -14,7 +14,6 @@ date: {{ date }}
 [下载链接 <点击>]()
 
 `
-提取码：
 解压密码：longglovelover.com
 `
 
