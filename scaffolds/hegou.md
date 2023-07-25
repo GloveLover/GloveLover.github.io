@@ -3,7 +3,7 @@ title: {{ title }}
 author: F-ReshN
 tags:
 categories:
-  - 合购
+  - 新作合集
 date: {{ date }}
 ---
 

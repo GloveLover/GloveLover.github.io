@@ -93,7 +93,7 @@ ignore:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: github.com/GloveLover/GloveLover.github.io.git
+  repo: https://GloveLover@github.com/GloveLover/GloveLover.github.io.git
   branch: master
 
 # Config hexo-admin authentification
