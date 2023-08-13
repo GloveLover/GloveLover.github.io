@@ -27,7 +27,7 @@ FC2一个导演工作室的AV正作，而且还开了Fansly
 [下载链接 <点击>](https://pan.baidu.com/s/1CaKgiH2imkkv9jqFZhBhVA?pwd=7x7c)
 
 `
-解压密码：longglovelover.com
+解压密码: 加入同好群可见
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!

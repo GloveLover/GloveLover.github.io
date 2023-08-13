@@ -32,7 +32,7 @@ date: 2022-09-17 20:50:35
 [下载链接 <点击>](https://pan.baidu.com/s/1mxBPUvtDGk4SjAoopBPWDg?pwd=zvul)
 
 `
-解压密码：longglovelover.com
+解压密码: 加入同好群可见
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!

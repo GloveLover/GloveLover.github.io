@@ -27,7 +27,7 @@ Giga新作！
 [下载链接 <点击>](https://pan.baidu.com/s/104Zd7aEHwPi5NV-IINWU0g?pwd=utm7)
 
 `
-解压密码：longglovelover.com
+解压密码: 加入同好群可见
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!

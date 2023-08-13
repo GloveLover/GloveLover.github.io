@@ -28,7 +28,7 @@ date: 2022-06-24 16:10:47
 [下载链接 <点击>](https://pan.baidu.com/s/1IOTLAYp8jbVxyBp7dxMLcg?pwd=01hp)
 
 `
-解压密码：longglovelover.com
+解压密码: 加入同好群可见
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!

@@ -29,7 +29,7 @@ MIAA系列上次出了一个魅魔作品外同期还有这部新作。
 [下载链接 <点击>](https://pan.baidu.com/s/1brGt8m-CQC5NTduBV8MBDQ?pwd=0wb7)
 
 `
-解压密码：longglovelover.com
+解压密码: 加入同好群可见
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!

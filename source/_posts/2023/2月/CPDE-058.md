@@ -22,7 +22,7 @@ date: 2023-02-16 22:09:58
 
 [下载链接 &lt;点击&gt;](https://pan.baidu.com/s/1Ruk6d0pagihJkr3haJTHNA?pwd=80bb)
 
-`解压密码：longglovelover.com`
+`解压密码: 加入同好群可见`
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
