@@ -2,7 +2,7 @@
 title: PRED-278 美容院小姐姐白丝手套 竹内有纪
 author: F-ReshN
 tags:
-  - 丝质
+  - 尼龙手套
   - 美容院
 categories:
   - 福利

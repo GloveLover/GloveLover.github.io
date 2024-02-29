@@ -3,7 +3,7 @@ title: HOMA-080 召唤美少女魅魔 渚光希
 author: F-ReshN
 tags:
   - 魅魔
-  - 丝质
+  - 尼龙手套
   - Cosplay
 categories:
   - 福利
