@@ -4,7 +4,7 @@ author: F-ReshN
 tags:
   - M男
   - 缎面
-  - 亮面
+  - 漆皮
   - 涂胶
 categories:
   - 福利

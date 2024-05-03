@@ -2,7 +2,7 @@
 title: GHMT-80 堕落的火野丽
 author: F-ReshN
 tags:
-  - 亮面
+  - 漆皮
   - 美少女战士
   - GIGA
   - Cosplay
