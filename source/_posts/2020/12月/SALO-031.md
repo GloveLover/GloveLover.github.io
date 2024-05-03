@@ -33,7 +33,7 @@ SALO系列12月新作第二发
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part 1</center>
+Part 1
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO031.part1.mp4_000203.066.jpg"/>
@@ -50,7 +50,7 @@ SALO系列12月新作第二发
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO031.part1.thumbs.jpg"/>
 
-<center>Part 2</center>
+Part 2
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO031.part2.mp4_000334.784.jpg"/>

@@ -35,7 +35,7 @@ date: 2020-09-07 18:18:20
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part 1</center>
+Part 1
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/MGMP-052.part1.mp4_000918.591.jpg"/>
@@ -49,7 +49,7 @@ date: 2020-09-07 18:18:20
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/MGMP-052.part1.jpg"/>
 
-<center>Part 2</center>
+Part 2
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/MGMP-052.part2.mp4_000220.174.jpg"/>

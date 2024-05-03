@@ -37,7 +37,7 @@ date: 2022-09-17 20:50:35
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part1<center/>
+Part1<center/>
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2022/2022_LaceGlove_SYKH058.part1.mp4_000506.275.jpg"/>
@@ -47,7 +47,7 @@ date: 2022-09-17 20:50:35
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2022/2022_LaceGlove_SYKH058.part1.mp4_005323.198.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2022/2022_LaceGlove_SYKH058.part1.mp4.jpg"/>
 
-<center>Part2<center/>
+Part2<center/>
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2022/2022_LaceGlove_SYKH058.part2.mp4_001024.630.jpg"/>

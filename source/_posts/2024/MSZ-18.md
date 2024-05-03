@@ -15,8 +15,6 @@ date: 2024-04-27 20:31:10
 
 <!-- more -->
 
-<center>
-
 GIGA的手套类作品很多，但最带感的长手套女反派类型出品频率一直不高
 
 这部算是最近比较好看的一部，三位美女都是长手套+过膝靴的堕落造型，榨精勾引男性的桥段也比较精彩（唯一可惜的是手撸榨精的部份不算多）
@@ -30,8 +28,6 @@ GIGA的手套类作品很多，但最带感的长手套女反派类型出品频�
 `
 
 请下载到本地观看，不要在线解压，以免被和谐!
-
-</center>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2024/MSZ18_01.mp4_002849.558.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2024/MSZ18_01.mp4_003253.666.jpg"/>

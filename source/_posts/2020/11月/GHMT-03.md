@@ -33,7 +33,7 @@ date: 2020-11-03 16:36:50
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part 1</center>
+Part 1
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_Giga_GHMT03.part1.mp4_001957.933.jpg"/>
@@ -42,7 +42,7 @@ date: 2020-11-03 16:36:50
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_Giga_GHMT03.part1.mp4_004421.633.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_Giga_GHMT03.part1.thumbs.jpg"/>
 
-<center>Part 2</center>
+Part 2
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_Giga_GHMT03.part2.mp4_000002.071.jpg"/>

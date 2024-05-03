@@ -30,7 +30,7 @@ MEGAMI出品必属精品。
 想购买的朋友请联系管理员F-ReshN qq: 651031529
 ```
 
-<center>第一节 - 紫色涂胶长手套</center>
+第一节 - 紫色涂胶长手套
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_001747.100.jpg"/>
@@ -41,7 +41,7 @@ MEGAMI出品必属精品。
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_002611.604.jpg"/>
 
-<center>第二节 - 红色缎面长手套</center>
+第二节 - 红色缎面长手套
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_003536.170.jpg"/>
@@ -52,7 +52,7 @@ MEGAMI出品必属精品。
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_005349.263.jpg"/>
 
-<center>第三节 - 蓝色缎面长手套</center>
+第三节 - 蓝色缎面长手套
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_005705.459.jpg"/>
@@ -63,7 +63,7 @@ MEGAMI出品必属精品。
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_013051.485.jpg"/>
 
-<center>第四节 - 金色和黑色缎面长手套</center>
+第四节 - 金色和黑色缎面长手套
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_015038.671.jpg"/>
@@ -74,7 +74,7 @@ MEGAMI出品必属精品。
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046.mp4_020437.726.jpg"/>
 
-<center>完整剧情缩略图：</center>
+完整剧情缩略图：
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host@master/longglovelover/2019/MGMP-046_thumbs.jpg"/>

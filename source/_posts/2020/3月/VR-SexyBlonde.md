@@ -31,7 +31,7 @@ date: 2020-03-21 12:00:27
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>普通播放器的效果：</center>
+普通播放器的效果：
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_VR_WhiteSatinGlove_A.mp4_000203.448.jpg"/>
@@ -46,7 +46,7 @@ date: 2020-03-21 12:00:27
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_VR_WhiteSatinGlove_A.mp4_001152.800.jpg"/>
 
-<center>使用VR播放器后可以自动合成：</center>
+使用VR播放器后可以自动合成：
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_VR_WhiteSatinGlove_p1.jpg"/>

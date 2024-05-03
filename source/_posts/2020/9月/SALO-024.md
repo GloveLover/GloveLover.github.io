@@ -35,7 +35,7 @@ SALO的手套长度比MGMP系列更长，看着更舒服，长手套大腿靴这
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO024.part1.mp4_000058.391.jpg"/>
@@ -56,7 +56,7 @@ SALO的手套长度比MGMP系列更长，看着更舒服，长手套大腿靴这
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO024.part1.thumbs.jpg"/>
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_SatinGlove_SALO024.part2.mp4_001523.355.jpg"/>

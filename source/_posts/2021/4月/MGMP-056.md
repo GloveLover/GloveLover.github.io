@@ -37,7 +37,7 @@ date: 2021-04-04 10:53:45
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_MGMP056.A.mp4_000316.229.jpg"/>
@@ -58,7 +58,7 @@ date: 2021-04-04 10:53:45
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_MGMP056.A.jpg"/>
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_MGMP056.B.mp4_000126.886.jpg"/>

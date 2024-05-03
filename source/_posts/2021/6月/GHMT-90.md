@@ -37,7 +37,7 @@ GIGA近期的一部神作，喜欢这种女S反派类型的长手套控有福了
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHMT90.A.mp4_001015.506.jpg"/>
@@ -48,7 +48,7 @@ GIGA近期的一部神作，喜欢这种女S反派类型的长手套控有福了
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHMT90.A.mp4_005442.990.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHMT90.A.thumbs.jpg"/>
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHMT90.B.mp4_000138.521.jpg"/>

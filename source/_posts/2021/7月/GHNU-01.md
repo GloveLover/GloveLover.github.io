@@ -35,7 +35,7 @@ date: 2021-07-06 22:53:20
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHNU01.A.mp4_000348.376.jpg"/>
@@ -46,7 +46,7 @@ date: 2021-07-06 22:53:20
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHNU01.A.mp4_004028.764.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHNU01.A.thumbs.jpg"/>
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_Giga_GHNU01.B.mp4_000200.239.jpg"/>

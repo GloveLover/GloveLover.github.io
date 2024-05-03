@@ -1,20 +1,37 @@
 .site-meta {
-  background: url(../images/header_bg.jpg);
+  background: url('../images/header_bg.jpg');
   background-size: cover;
   background-position: center;
   color: black;
   padding: 60px 0;
 
   +tablet-mobile() {
-    box-shadow: 0 0 16px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
   }
 }
 
 body {
-  background-image: url(../images/flowers.png);
+  background-image: url('../images/flowers.png');
   background-color: #000000;
 }
 
 .site-title {
-  font-family: "Comic Sans MS"
+  font-family: 'Comic Sans MS';
+}
+
+.post-body {
+  & p {
+    padding-left: 64px;
+    padding-right: 64px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .post-body {
+    & p {
+      padding-left: 0px;
+      padding-right: 0px;
+    }
+  }
 }

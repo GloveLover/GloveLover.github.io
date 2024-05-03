@@ -37,7 +37,7 @@ SALO一月新作的第二部，依旧是女王调教风格。
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part 1</center>
+Part 1
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_SALO034.mp4_000141.467.jpg"/>
@@ -48,7 +48,7 @@ SALO一月新作的第二部，依旧是女王调教风格。
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_SALO034.mp4_002256.208.jpg"/>
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_SatinGlove_SALO034.thumbs.jpg"/>
 
-<center>Part 2</center>
+Part 2
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_ShinyGlove_SALO034.mp4_000043.393.jpg"/>

@@ -38,7 +38,7 @@ GIGA是日系AV里非常特别的公司，专门出品成人向的特摄作品�
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_ShinnyGlove_GHMT68_02.mp4_000044.010.jpg"/>
@@ -50,7 +50,7 @@ GIGA是日系AV里非常特别的公司，专门出品成人向的特摄作品�
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_ShinnyGlove_GHMT68_02.jpg"/>
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2021_ShinnyGlove_GHMT68_03.mp4_000628.772.jpg"/>

@@ -35,7 +35,7 @@ date: 2020-08-15 12:28:36
 
 请下载到本地观看，不要在线解压，以免被和谐!
 
-<center>Part A</center>
+Part A
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_LongGlove_SALO021.partA.mp4_000516.983.jpg"/>
@@ -56,7 +56,7 @@ date: 2020-08-15 12:28:36
 
 ---
 
-<center>Part B</center>
+Part B
 </br>
 
 <img width="700px" src="https://cdn.jsdelivr.net/gh/GloveLover/Image-host/longglovelover/2020/2020_LongGlove_SALO021.partB.mp4_000022.781.jpg"/>
