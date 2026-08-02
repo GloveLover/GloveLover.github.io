@@ -44,4 +44,9 @@ fancybox: true
 # For more information: https://github.com/ApoorvSaxena/lozad.js
 lazyload: true
 
+# Comments Settings
+# Disable Valine (the theme default has it enabled)
+valine:
+  enable: false
+
 # Region end
